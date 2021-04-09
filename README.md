@@ -1,1 +1,1 @@
-# Introduction-to-Web-Development
+This is a course I completed in coursera. This helps us build our skills in HTML, CSS and Javascript. The above codes are used for form filling and also displaying the form in the webpage with some styling and usage of Javascript
